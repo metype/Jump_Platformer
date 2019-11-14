@@ -1,2 +1,11 @@
 default_screen:0
-version:0.0.2a
+version:4w27b
+keycode.ESCAPE:27
+keycode.JUMP:38
+keycode.LEFT:37
+keycode.RIGHT:39
+keycode.INV.EDITOR:73
+keycode.LOAD.EDITOR:76
+keycode.SAVE.EDITOR:83
+keycode.CONSOLE:192
+keycode.RESET:82
