@@ -1,7 +1,8 @@
 default_screen:0
-version:4w27b
+version:5w5b
 keycode.ESCAPE:27
 keycode.JUMP:38
+keycode.DOWN:40
 keycode.LEFT:37
 keycode.RIGHT:39
 keycode.INV.EDITOR:73
