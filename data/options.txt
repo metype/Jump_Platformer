@@ -1,5 +1,5 @@
 default_screen:0
-version:5w17b
+version:1.0.0
 keycode.ESCAPE:27
 keycode.JUMP:38
 keycode.DOWN:40
